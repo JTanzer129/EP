@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EP-DAM</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="radiobutton_IS">Ingeniería de Sistemas</string>
+    <string name="radiobutton_IA">Ingeniería Ambiental</string>
+    <string name="radiobutton_IM">Ingeniería Mecánica</string>
+    <string name="radiobutton_Admin">Administración</string>
+    <string name="nulle" />
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_internet">Internet</string>
+    <string name="checkbox_publicidad">Publicidad</string>
+    <string name="checkbox_amigo">Amigo</string>
+</resources>
